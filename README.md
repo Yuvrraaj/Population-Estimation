@@ -53,7 +53,7 @@ The project involves:
 
 3. **Run the GUI**
 
-   python gui/main_gui.py
+   python dhm2.py
    
 
 4. **Upload satellite tile**, optional DSM/DTM files, and view population output.
