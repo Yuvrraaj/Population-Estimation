@@ -60,16 +60,6 @@ The project involves:
 
 ---
 
-## 📸 Sample Output
-
-> Add screenshots here showing:
->
-> * Input image
-> * Building detection result
-> * Final population estimate overlay
-
----
-
 ## 📝 Acknowledgements
 
 * **NESAC – North Eastern Space Applications Centre**, Department of Space, Govt. of India
