@@ -34,29 +34,6 @@ The project involves:
 - Tkinter (for GUI)
 - Roboflow (for annotation)
 
----
-
-
-
-## 🧪 How to Run
-
-1. **Clone the repo**
-   bash
-   git clone https://github.com/YuvrajJha-01/Population-Estimation-AI
-   cd Population-Estimation-AI
-
-
-2. **Install dependencies**
-
-   pip install -r requirements.txt
-   
-
-3. **Run the GUI**
-
-   python dhm2.py
-   
-
-4. **Upload satellite tile**, optional DSM/DTM files, and view population output.
 
 ---
 
