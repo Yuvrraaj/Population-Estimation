@@ -48,13 +48,11 @@ The project involves:
 
 2. **Install dependencies**
 
-   bash
    pip install -r requirements.txt
    
 
 3. **Run the GUI**
 
-   bash
    python gui/main_gui.py
    
 
