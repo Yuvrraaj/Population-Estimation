@@ -34,7 +34,7 @@ The project involves:
 - Tkinter (for GUI)
 - Roboflow (for annotation)
 
-
+Note - This is pixel based estimation; I am working on area based estimation.
 ---
 
 ## 📝 Acknowledgements
