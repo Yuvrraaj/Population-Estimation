@@ -7,23 +7,6 @@ It combines **YOLOv8 segmentation**, **DSM–DTM height modeling**, **coordinate
 
 ---
 
-# **📌 Table of Contents**
-
-* [About the Project](#about-the-project)
-* [Key Features](#key-features)
-* [System Architecture](#system-architecture)
-* [Methodology](#methodology)
-* [Tech Stack](#tech-stack)
-* [Pipeline Steps](#pipeline-steps)
-* [GUI Features](#gui-features)
-* [Output Format](#output-format)
-* [Results](#results)
-* [Project Structure](#project-structure)
-* [Usage](#usage)
-* [Acknowledgements](#acknowledgements)
-* [License](#license)
-
----
 
 # **📖 About the Project**
 
