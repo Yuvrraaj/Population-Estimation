@@ -222,8 +222,6 @@ population = base_population × size_multiplier × floors
 
 # **🖥 GUI Features**
 
-> *(Insert GUI screenshots here)*
-> Example: `![GUI](images/gui.png)`
 
 The GUI provides:
 
@@ -336,6 +334,3 @@ This project is released under the **MIT License**.
 See the `LICENSE` file for details.
 
 ---
-
-
-Just say **"Add badges"**, **"Add diagrams"**, or **"Add demo section"**.
