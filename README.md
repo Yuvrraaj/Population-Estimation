@@ -70,8 +70,6 @@ Includes:
 
 # **🏗 System Architecture**
 
-> *(Insert your architecture diagram here)*
-> Example: `![Architecture](images/architecture.png)`
 
 The pipeline includes:
 
