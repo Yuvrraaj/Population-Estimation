@@ -300,7 +300,7 @@ pip install -r requirements.txt
 ### **3. Run the GUI**
 
 ```bash
-python main.py
+python app.py
 ```
 
 ### **4. Upload inputs**
